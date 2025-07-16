@@ -15,23 +15,3 @@ Project ini menganalisis data peminjaman alat-alat outdoor seperti tenda, matras
 ✅ Menampilkan rekomendasi human-friendly
 
 ---
-
-## 📂 Struktur File
-
-```bash
-.
-├── apyorii_pynb.py              # Script utama proses apriori
-├── Data_Transaksi_Oktober_November.xlsx  # Dataset transaksi sewa
-├── README.md
-└── .venv/ (optional, virtual env)
-
-
-## 📦 **Instalasi**
-
-**Aktifkan virtual environment** (jika ada):
-
-```bash
-.venv\Scripts\activate  # Windows
-
-## **Lalu Install Semua Dependensi Utama**
-pip install **pandas** **openpyxl** **mlxtend**
